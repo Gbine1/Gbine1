@@ -1,8 +1,3 @@
-## Hi there 👋, Melchizedek Here.
-
-<!--
-**Gbine1/Gbine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <!-- Animated banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Melchizedek+Sackey+G.;Software+Developer+%7C+Network+Engineer+%7C+Cyber+Security+Analyst;I+Love+Building+Cool+Things+With+Code!">
