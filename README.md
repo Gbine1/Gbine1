@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me  
 🚀 I am a **Software Developer**, **Aspiring Network Engineer**, and **Cyber Security Analyst**.  
-🎓 Currently pursuing a degree in **Telecommunications Engineering**.  
+🎓 With a foundation in **Computer Science** and ongoing studies in **Telecommunications Engineering**, I’m actively seeking roles where I can merge **software, networking, and AI security.** 
 💡 Passionate about building impactful software that blends **AI**, **cybersecurity**, and **network intelligence**.  
 🧠 Love exploring **Python**, **FastAPI**, **Streamlit**, and **ethical hacking tools**.  
 ⚙️ Constantly improving my skills in **web development**, **network defense**, and **automation scripting**.  
