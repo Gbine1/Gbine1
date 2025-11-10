@@ -5,7 +5,7 @@
 
 <!-- Animated banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Melchizedek+Sackey+G.;Software+Developer+%7C+Network+Engineer+%7C+Cyber+Security+Analyst;I+Love+Building+Cool+Things+With+Code!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Melchizedek+Sackey+G.;Software+Developer+%7C+Network+Engineer+%7C+Cyber+Security+Analyst;I+Love+Building+Cool+Things+With+Code!">
 </p>
 
 <!-- Profile views -->
