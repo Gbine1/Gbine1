@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, Melchizedek Here.
 
 <!--
 **Gbine1/Gbine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,6 +65,7 @@
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | 🧠 **Hey TA - AI Teaching Assistant** | An AI-powered assistant that listens to lectures, transcribes, summarizes, and generates slides automatically. | `Python` `Flask` `Whisper` `LangChain` |
+| 🧠 **Uni-Assist – AI Course Predictor** | An AI-powered recommendation system that predicts the most suitable university courses for SHS students based on their performance, interests, and personality traits. | `Python` `Flask` `Whisper` `LangChain`|
 | 🗺️ **Traffic Navigation App** | Real-time navigation with traffic visualization using FastAPI + Streamlit. | `Python` `Geoapify` `FastAPI` `Streamlit` |
 | 🎙️ **Speech Transcription App** | Live mic and YouTube transcription with GUI built in CustomTkinter. | `Python` `CustomTkinter` `VLC` `Whisper` |
 | 🧩 **Fraud Detection System (Momo Ghana)** | ML model detecting fraud transactions using Mindspore + Python. | `Python` `Mindspore` `Pandas` `NumPy` |
@@ -73,8 +74,8 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/melchizedek-sackey-g" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:melchizedekg24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/melchizedek-sackey-35791b2b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:melchizedekgbine2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Gbine1"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
