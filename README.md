@@ -63,7 +63,7 @@
 | 🧠 **Uni-Assist – AI Course Predictor** | An AI-powered recommendation system that predicts the most suitable university courses for SHS students based on their performance, interests, and personality traits. | `Python` `Flask` `Whisper` `LangChain`|
 | 🗺️ **Traffic Navigation App** | Real-time navigation with traffic visualization using FastAPI + Streamlit. | `Python` `Geoapify` `FastAPI` `Streamlit` |
 | 🎙️ **Speech Transcription App** | Live mic and YouTube transcription with GUI built in CustomTkinter. | `Python` `CustomTkinter` `VLC` `Whisper` |
-| 🧩 **Fraud Detection System (Momo Ghana)** | ML model detecting fraud transactions using Mindspore + Python. | `Python` `Mindspore` `Pandas` `NumPy` |
+| 🧩 **Fraud Detection System (Momo system in Africa)** | ML model detecting fraud transactions using Mindspore + Python. | `Python` `Mindspore` `Pandas` `NumPy` |
 
 ---
 
